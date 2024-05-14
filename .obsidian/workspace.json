@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "5790572822a54bb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2986881037dab91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cb9fc0f8f2052d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Выполненные цели/Сортировка/Цели на год.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da26d5b6ff904504",
+    "type": "split",
+    "children": [
+      {
+        "id": "44ec76f45123143e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11eab32ae7923cc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "355f3c48f883c337",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be4f0a976da7d3a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c6bb1d880474ec2",
+    "type": "split",
+    "children": [
+      {
+        "id": "93c19fda9683f167",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f74e9e9abbc95195",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Education/Выполненные цели/Сортировка/Цели на год.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "066e319820e34127",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Education/Выполненные цели/Сортировка/Цели на год.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7cb411708e0d134a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e3e1d7b2ff32e293",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Education/Выполненные цели/Сортировка/Цели на год.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "8cb9fc0f8f2052d2",
+  "lastOpenFiles": [
+    "Education/Выполненные цели/Сортировка/Список целей.md",
+    "Templates/Planner Template.md",
+    "Templates/Default Template.md",
+    "Templates/Daily Template.md",
+    "Templates/Course Template.md",
+    "Templates/Reference Template.md",
+    "Templates/Project Template.md",
+    "Templates/Sport Template.md",
+    "Templates/Finance Template.md",
+    "Templates/Book Template.md",
+    "Education/Ежедневник/2024/Май.md",
+    "Education/Ежедневник/2024/Июнь.md",
+    "Education/Выполненные цели/Сортировка/Цели на год.md",
+    "Education/Выполненные цели/2024.md",
+    "Daily/2024-05-14.md",
+    "Daily/2024-05-13.md",
+    "Projects/Engine/ExploreMate/Explore Mate.md",
+    "Projects/Mine/Poe/Poe.md",
+    "Projects/Mine",
+    "Projects/Engine",
+    "Projects/Mine/Poe",
+    "Без названия.canvas",
+    "Cache/Сочинение Webium 13.05.2024.docx",
+    "Sport/2024/Май.md",
+    "Projects/Engine/ExploreMate",
+    "Projects",
+    "Day.md",
+    "Finance/2024/Апрель.md",
+    "Finance/2024/Май.md",
+    "Daily/Invalid date.md",
+    "Sport/2024",
+    "Sport",
+    "Finance/2024/Июнь.md",
+    "Programming/Flutter",
+    "Programming/Python",
+    "Welcome.md"
+  ]
+}
