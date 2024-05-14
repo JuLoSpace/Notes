@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b93985a5eb72a5bf",
+        "id": "6b899fe0134dd8c1",
         "type": "tabs",
         "children": [
           {
-            "id": "6a4d21d69703ce54",
+            "id": "95d0e017a29f460f",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,7 +138,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6a4d21d69703ce54",
+  "active": "95d0e017a29f460f",
   "lastOpenFiles": [
     "Daily/2024-05-14.md",
     "Education/Ежедневник/2024/Май.md",
