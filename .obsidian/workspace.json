@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "872780109309ec76",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -148,10 +156,11 @@
   },
   "active": "8cb9fc0f8f2052d2",
   "lastOpenFiles": [
-    "Education/Ежедневник/2024/Май.md",
     "Daily/2024-05-14.md",
-    "Education/Ежедневник/2024/Июнь.md",
+    "Webium.md",
     "Daily/2024-05-13.md",
+    "Education/Ежедневник/2024/Май.md",
+    "Education/Ежедневник/2024/Июнь.md",
     "Education/Выполненные цели/Сортировка/Цели на год.md",
     "Education/Выполненные цели/Сортировка/Список целей.md",
     "Templates/Planner Template.md",
