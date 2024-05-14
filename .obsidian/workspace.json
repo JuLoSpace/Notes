@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6b899fe0134dd8c1",
+        "id": "348121f1c5d92de9",
         "type": "tabs",
         "children": [
           {
-            "id": "95d0e017a29f460f",
+            "id": "eda77258ff0299d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sport/2024/Май.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61142981f67723bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Engine/ExploreMate/Explore Mate.md",
+                "file": "Education/Ежедневник/2024/Май.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Engine/ExploreMate/Explore Mate.md",
+                "file": "Education/Ежедневник/2024/Май.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Engine/ExploreMate/Explore Mate.md",
+                "file": "Education/Ежедневник/2024/Май.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Engine/ExploreMate/Explore Mate.md"
+                "file": "Education/Ежедневник/2024/Май.md"
               }
             }
           },
@@ -167,21 +154,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "61142981f67723bd",
+  "active": "eda77258ff0299d3",
   "lastOpenFiles": [
     "Sport/2024/Май.md",
+    "Projects/Mine/Poe/Poe.md",
+    "Daily/2024-05-13.md",
+    "Daily/2024-05-14.md",
+    "Projects/Engine/ExploreMate/Explore Mate.md",
     "Education/Ежедневник/2024/Май.md",
     "Education/Ежедневник/2024/Июнь.md",
     "Templates/Planner Template.md",
     "Templates/Finance Template.md",
     "Templates/Default Template.md",
     "Templates/Daily Template.md",
-    "Daily/2024-05-14.md",
-    "Daily/2024-05-13.md",
     "Flutter.md",
     "Education/Выполненные цели/Сортировка/Цели на год.md",
-    "Projects/Engine/ExploreMate/Explore Mate.md",
-    "Projects/Mine/Poe/Poe.md",
     "Education/Выполненные цели/Сортировка/Список целей.md",
     "Webium.md",
     "Templates/Course Template.md",
