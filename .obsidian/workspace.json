@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4de9c0c546e51176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Ежедневник/2024/Май.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,14 +167,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "eda77258ff0299d3",
+  "active": "4de9c0c546e51176",
   "lastOpenFiles": [
+    "Без названия.canvas",
+    "Education/Ежедневник/2024/Май.md",
     "Sport/2024/Май.md",
     "Projects/Mine/Poe/Poe.md",
     "Daily/2024-05-13.md",
     "Daily/2024-05-14.md",
     "Projects/Engine/ExploreMate/Explore Mate.md",
-    "Education/Ежедневник/2024/Май.md",
     "Education/Ежедневник/2024/Июнь.md",
     "Templates/Planner Template.md",
     "Templates/Finance Template.md",
@@ -180,7 +194,6 @@
     "Projects/Mine",
     "Projects/Engine",
     "Projects/Mine/Poe",
-    "Без названия.canvas",
     "Cache/Сочинение Webium 13.05.2024.docx",
     "Projects/Engine/ExploreMate",
     "Projects",
@@ -190,7 +203,6 @@
     "Daily/Invalid date.md",
     "Sport/2024",
     "Sport",
-    "Finance/2024/Июнь.md",
     "Programming/Flutter",
     "Programming/Python"
   ]
