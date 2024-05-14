@@ -11,8 +11,12 @@
             "id": "95d0e017a29f460f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-05-13.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2024-05-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2024-05-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +124,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Daily/2024-05-13.md"
+              }
+            }
+          },
+          {
+            "id": "81f675be26297bbe",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -140,9 +156,9 @@
   },
   "active": "95d0e017a29f460f",
   "lastOpenFiles": [
-    "Daily/2024-05-14.md",
     "Education/Ежедневник/2024/Май.md",
     "Education/Ежедневник/2024/Июнь.md",
+    "Daily/2024-05-14.md",
     "Flutter.md",
     "Education/Выполненные цели/Сортировка/Цели на год.md",
     "Projects/Engine/ExploreMate/Explore Mate.md",
