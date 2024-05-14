@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Planner Template.md",
+                "file": "Sport/2024/Май.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61142981f67723bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Engine/ExploreMate/Explore Mate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Planner Template.md",
+                "file": "Projects/Engine/ExploreMate/Explore Mate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Planner Template.md",
+                "file": "Projects/Engine/ExploreMate/Explore Mate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Planner Template.md"
+                "file": "Projects/Engine/ExploreMate/Explore Mate.md"
               }
             }
           },
@@ -154,14 +167,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "95d0e017a29f460f",
+  "active": "61142981f67723bd",
   "lastOpenFiles": [
+    "Sport/2024/Май.md",
+    "Education/Ежедневник/2024/Май.md",
+    "Education/Ежедневник/2024/Июнь.md",
+    "Templates/Planner Template.md",
     "Templates/Finance Template.md",
     "Templates/Default Template.md",
     "Templates/Daily Template.md",
-    "Education/Ежедневник/2024/Май.md",
-    "Sport/2024/Май.md",
-    "Education/Ежедневник/2024/Июнь.md",
     "Daily/2024-05-14.md",
     "Daily/2024-05-13.md",
     "Flutter.md",
@@ -170,7 +184,6 @@
     "Projects/Mine/Poe/Poe.md",
     "Education/Выполненные цели/Сортировка/Список целей.md",
     "Webium.md",
-    "Templates/Planner Template.md",
     "Templates/Course Template.md",
     "Templates/Reference Template.md",
     "Templates/Project Template.md",
