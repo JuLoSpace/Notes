@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-05-13.md",
+                "file": "Templates/Planner Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-13.md",
+                "file": "Templates/Planner Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-13.md",
+                "file": "Templates/Planner Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-05-13.md"
+                "file": "Templates/Planner Template.md"
               }
             }
           },
@@ -156,24 +156,25 @@
   },
   "active": "95d0e017a29f460f",
   "lastOpenFiles": [
+    "Templates/Finance Template.md",
+    "Templates/Default Template.md",
+    "Templates/Daily Template.md",
     "Education/Ежедневник/2024/Май.md",
+    "Sport/2024/Май.md",
     "Education/Ежедневник/2024/Июнь.md",
     "Daily/2024-05-14.md",
+    "Daily/2024-05-13.md",
     "Flutter.md",
     "Education/Выполненные цели/Сортировка/Цели на год.md",
     "Projects/Engine/ExploreMate/Explore Mate.md",
     "Projects/Mine/Poe/Poe.md",
     "Education/Выполненные цели/Сортировка/Список целей.md",
-    "Daily/2024-05-13.md",
     "Webium.md",
     "Templates/Planner Template.md",
-    "Templates/Default Template.md",
-    "Templates/Daily Template.md",
     "Templates/Course Template.md",
     "Templates/Reference Template.md",
     "Templates/Project Template.md",
     "Templates/Sport Template.md",
-    "Templates/Finance Template.md",
     "Templates/Book Template.md",
     "Education/Выполненные цели/2024.md",
     "Projects/Mine",
@@ -181,7 +182,6 @@
     "Projects/Mine/Poe",
     "Без названия.canvas",
     "Cache/Сочинение Webium 13.05.2024.docx",
-    "Sport/2024/Май.md",
     "Projects/Engine/ExploreMate",
     "Projects",
     "Day.md",
