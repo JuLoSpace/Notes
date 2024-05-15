@@ -25,14 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
+                "file": "Daily/2024-05-15.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "231fd8eb74ecba86",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Education/Ежедневник/2024/Май.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,10 +171,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4de9c0c546e51176",
+  "active": "231fd8eb74ecba86",
   "lastOpenFiles": [
-    "Daily/2024-05-15.md",
     "Education/Ежедневник/2024/Май.md",
+    "Daily/2024-05-15.md",
+    "НИЯУ МИФИ.md",
     "Education/Ежедневник/2024/Июнь.md",
     "Daily/2024-05-14.md",
     "Projects/Engine/ExploreMate/Explore Mate.md",
@@ -201,7 +206,6 @@
     "Day.md",
     "Finance/2024/Апрель.md",
     "Finance/2024/Май.md",
-    "Daily/Invalid date.md",
     "Sport/2024",
     "Sport",
     "Programming/Flutter",
