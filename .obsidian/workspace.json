@@ -37,14 +37,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-05-16.md",
+                "file": "Education/Ежедневник/2024/Май.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "381f9ad6d58c4dec",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2024-05-16.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,11 +183,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "231fd8eb74ecba86",
+  "active": "381f9ad6d58c4dec",
   "lastOpenFiles": [
+    "Education/Ежедневник/2024/Май.md",
     "Daily/2024-05-16.md",
     "Daily/2024-05-15.md",
-    "Education/Ежедневник/2024/Май.md",
     "НИЯУ МИФИ.md",
     "Education/Ежедневник/2024/Июнь.md",
     "Daily/2024-05-14.md",
