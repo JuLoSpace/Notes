@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-05-15.md",
+                "file": "Education/Ежедневник/2024/Май.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-15.md",
+                "file": "Education/Ежедневник/2024/Май.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-15.md",
+                "file": "Education/Ежедневник/2024/Май.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-05-15.md"
+                "file": "Education/Ежедневник/2024/Май.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "4de9c0c546e51176",
   "lastOpenFiles": [
-    "Education/Ежедневник/2024/Май.md",
     "Daily/2024-05-15.md",
+    "Education/Ежедневник/2024/Май.md",
     "Education/Ежедневник/2024/Июнь.md",
     "Daily/2024-05-14.md",
     "Projects/Engine/ExploreMate/Explore Mate.md",
