@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-05-15.md",
+                "file": "Daily/2024-05-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-15.md",
+                "file": "Daily/2024-05-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-15.md",
+                "file": "Daily/2024-05-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-05-15.md"
+                "file": "Daily/2024-05-16.md"
               }
             }
           },
@@ -181,8 +181,9 @@
   },
   "active": "231fd8eb74ecba86",
   "lastOpenFiles": [
-    "Education/Ежедневник/2024/Май.md",
+    "Daily/2024-05-16.md",
     "Daily/2024-05-15.md",
+    "Education/Ежедневник/2024/Май.md",
     "НИЯУ МИФИ.md",
     "Education/Ежедневник/2024/Июнь.md",
     "Daily/2024-05-14.md",
@@ -213,7 +214,6 @@
     "Projects",
     "Day.md",
     "Finance/2024/Апрель.md",
-    "Finance/2024/Май.md",
     "Sport/2024",
     "Sport",
     "Programming/Flutter",
