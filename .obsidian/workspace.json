@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
+                "file": "Daily/2024-05-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
+                "file": "Daily/2024-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
+                "file": "Daily/2024-05-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md"
+                "file": "Daily/2024-05-17.md"
               }
             }
           },
@@ -193,6 +193,8 @@
   },
   "active": "0f462774d75a3b40",
   "lastOpenFiles": [
+    "Education/Ежедневник/2024/Май.md",
+    "Cache/Pasted image 20240518001727.png",
     "Cache/Сочинение Webium 17.05.2024.docx",
     "Projects/Проекты.md",
     "Daily/2024-05-17.md",
@@ -200,7 +202,6 @@
     "Daily/2024-05-16.md",
     "Daily/2024-05-15.md",
     "Daily/2024-05-14.md",
-    "Education/Ежедневник/2024/Май.md",
     "Sport/2024/Май.md",
     "Без названия.md",
     "Webium.md",
@@ -228,7 +229,6 @@
     "Projects",
     "Sport/2024",
     "Sport",
-    "Programming/Flutter",
-    "Programming/Python"
+    "Programming/Flutter"
   ]
 }
