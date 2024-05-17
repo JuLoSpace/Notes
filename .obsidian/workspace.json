@@ -47,8 +47,12 @@
             "id": "0f462774d75a3b40",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Education/Ежедневник/2024/Май.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
