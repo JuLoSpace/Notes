@@ -20,27 +20,11 @@
             }
           },
           {
-            "id": "e24d337d274e4d0d",
+            "id": "97578651f709e934",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sport/2024/Май.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94f782cc7e96f191",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sport/2024/Май.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sport/2024/Май.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sport/2024/Май.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,22 +159,22 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e24d337d274e4d0d",
+  "active": "97578651f709e934",
   "lastOpenFiles": [
-    "Без названия.md",
     "Education/Ежедневник/2024/Май.md",
+    "Daily/2024-05-17.md",
     "Daily/2024-05-14.md",
+    "Sport/2024/Май.md",
+    "Без названия.md",
     "Daily/2024-05-16.md",
     "Daily/2024-05-15.md",
     "Daily/2024-05-13.md",
-    "Daily/2024-05-17.md",
     "Webium.md",
     "Projects/Engine/ExploreMate/Explore Mate.md",
     "НИЯУ МИФИ.md",
     "Education/Ежедневник/2024/Июнь.md",
     "Projects/Mine/Poe/Poe.md",
     "Без названия.canvas",
-    "Sport/2024/Май.md",
     "Templates/Planner Template.md",
     "Templates/Finance Template.md",
     "Templates/Default Template.md",
