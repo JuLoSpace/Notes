@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e24d337d274e4d0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sport/2024/Май.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94f782cc7e96f191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
+                "file": "Sport/2024/Май.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
+                "file": "Sport/2024/Май.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md"
+                "file": "Sport/2024/Май.md"
               }
             }
           },
@@ -154,13 +179,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "10e8be30a7192a28",
+  "active": "e24d337d274e4d0d",
   "lastOpenFiles": [
+    "Без названия.md",
+    "Education/Ежедневник/2024/Май.md",
+    "Daily/2024-05-14.md",
     "Daily/2024-05-16.md",
     "Daily/2024-05-15.md",
-    "Daily/2024-05-14.md",
     "Daily/2024-05-13.md",
-    "Education/Ежедневник/2024/Май.md",
     "Daily/2024-05-17.md",
     "Webium.md",
     "Projects/Engine/ExploreMate/Explore Mate.md",
@@ -188,7 +214,6 @@
     "Cache/Сочинение Webium 13.05.2024.docx",
     "Projects/Engine/ExploreMate",
     "Projects",
-    "Day.md",
     "Sport/2024",
     "Sport",
     "Programming/Flutter",
