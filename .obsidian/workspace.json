@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "70ded4c074b63287",
+        "id": "8eff8770d80b3b56",
         "type": "tabs",
         "children": [
           {
-            "id": "10e8be30a7192a28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Проекты.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97a2d2ad38d9978b",
+            "id": "97ff9e753f0fab5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,19 +154,20 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "97a2d2ad38d9978b",
+  "active": "97ff9e753f0fab5f",
   "lastOpenFiles": [
+    "Daily/2024-05-18.md",
+    "Daily/2024-05-17.md",
+    "Education/Ежедневник/2024/Май.md",
+    "Daily/2024-05-16.md",
     "Projects/Проекты.md",
     "Projects/Oscar/Oscar.md",
     "Projects/Engine/ExploreMate/Explore Mate.md",
-    "Education/Ежедневник/2024/Май.md",
     "Projects/Oscar/Без названия",
     "Projects/Oscar",
-    "Daily/2024-05-17.md",
     "Cache/Pasted image 20240518001727.png",
     "Cache/Сочинение Webium 17.05.2024.docx",
     "Daily/2024-05-13.md",
-    "Daily/2024-05-16.md",
     "Daily/2024-05-15.md",
     "Daily/2024-05-14.md",
     "Sport/2024/Май.md",
@@ -199,7 +187,6 @@
     "Templates/Course Template.md",
     "Templates/Reference Template.md",
     "Templates/Project Template.md",
-    "Templates/Sport Template.md",
     "Projects/Mine",
     "Projects/Engine",
     "Projects/Mine/Poe",
