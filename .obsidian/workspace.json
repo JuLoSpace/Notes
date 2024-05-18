@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-05-17.md",
+                "file": "Education/Ежедневник/2024/Май.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-17.md",
+                "file": "Education/Ежедневник/2024/Май.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-17.md",
+                "file": "Education/Ежедневник/2024/Май.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-05-17.md"
+                "file": "Education/Ежедневник/2024/Май.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "97ff9e753f0fab5f",
   "lastOpenFiles": [
-    "Daily/2024-05-18.md",
+    "Education/Ежедневник/2024/Июнь.md",
     "Daily/2024-05-17.md",
+    "Daily/2024-05-18.md",
     "Education/Ежедневник/2024/Май.md",
     "Daily/2024-05-16.md",
     "Projects/Проекты.md",
@@ -174,7 +175,6 @@
     "Без названия.md",
     "Webium.md",
     "НИЯУ МИФИ.md",
-    "Education/Ежедневник/2024/Июнь.md",
     "Projects/Mine/Poe/Poe.md",
     "Без названия.canvas",
     "Templates/Planner Template.md",
