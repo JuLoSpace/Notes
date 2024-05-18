@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8eff8770d80b3b56",
+        "id": "29a76be02b0ba4c7",
         "type": "tabs",
         "children": [
           {
-            "id": "97ff9e753f0fab5f",
+            "id": "7770fd1653b0ba8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,15 +154,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "97ff9e753f0fab5f",
+  "active": "11eab32ae7923cc7",
   "lastOpenFiles": [
+    "Daily/2024-05-14.md",
+    "Education/Ежедневник/2024/Май.md",
     "Cache/Сочинение Webium 13.05.2024.pdf",
     "Cache/Сочинение Webium 17.05.2024.pdf",
     "Cache/Сочинение Webium 18.05.2024.pdf",
     "Education/Ежедневник/2024/Июнь.md",
     "Daily/2024-05-17.md",
     "Daily/2024-05-18.md",
-    "Education/Ежедневник/2024/Май.md",
     "Daily/2024-05-16.md",
     "Projects/Проекты.md",
     "Projects/Oscar/Oscar.md",
@@ -173,7 +174,6 @@
     "Cache/Сочинение Webium 17.05.2024.docx",
     "Daily/2024-05-13.md",
     "Daily/2024-05-15.md",
-    "Daily/2024-05-14.md",
     "Sport/2024/Май.md",
     "Без названия.md",
     "Webium.md",
@@ -192,7 +192,6 @@
     "Projects/Mine",
     "Projects/Engine",
     "Projects/Mine/Poe",
-    "Cache/Сочинение Webium 13.05.2024.docx",
-    "Projects/Engine/ExploreMate"
+    "Cache/Сочинение Webium 13.05.2024.docx"
   ]
 }
