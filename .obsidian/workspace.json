@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
+                "file": "Projects/Engine/ExploreMate/Explore Mate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
+                "file": "Projects/Engine/ExploreMate/Explore Mate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
+                "file": "Projects/Engine/ExploreMate/Explore Mate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md"
+                "file": "Projects/Engine/ExploreMate/Explore Mate.md"
               }
             }
           },
@@ -154,10 +154,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "11eab32ae7923cc7",
+  "active": "7770fd1653b0ba8d",
   "lastOpenFiles": [
-    "Daily/2024-05-14.md",
+    "Projects/Mine/Oscar/Oscar.md",
     "Education/Ежедневник/2024/Май.md",
+    "Daily/2024-05-14.md",
     "Cache/Сочинение Webium 13.05.2024.pdf",
     "Cache/Сочинение Webium 17.05.2024.pdf",
     "Cache/Сочинение Webium 18.05.2024.pdf",
@@ -166,10 +167,9 @@
     "Daily/2024-05-18.md",
     "Daily/2024-05-16.md",
     "Projects/Проекты.md",
-    "Projects/Oscar/Oscar.md",
     "Projects/Engine/ExploreMate/Explore Mate.md",
     "Projects/Oscar/Без названия",
-    "Projects/Oscar",
+    "Projects/Mine/Oscar",
     "Cache/Pasted image 20240518001727.png",
     "Cache/Сочинение Webium 17.05.2024.docx",
     "Daily/2024-05-13.md",
