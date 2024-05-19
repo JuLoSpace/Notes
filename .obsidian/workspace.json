@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cb126627a4478a17",
+        "id": "99151a288d6b5546",
         "type": "tabs",
         "children": [
           {
-            "id": "2badd81e53ae844a",
+            "id": "726f9323bd048b5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Education/Ежедневник/2024/Май.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Education/Ежедневник/2024/Май.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Education/Ежедневник/2024/Май.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Education/Ежедневник/2024/Май.md"
+              }
             }
           },
           {
@@ -146,27 +154,27 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2badd81e53ae844a",
+  "active": "726f9323bd048b5d",
   "lastOpenFiles": [
     "Daily/2024-05-17.md",
-    "Daily/2024-05-18.md",
-    "Daily/2024-05-19.md",
     "Education/Ежедневник/2024/Май.md",
+    "Daily/2024-05-19.md",
+    "Daily/2024-05-13.md",
+    "Daily/2024-05-14.md",
+    "Daily/2024-05-15.md",
+    "Daily/2024-05-16.md",
+    "Daily/2024-05-18.md",
     "Projects/Engine/ExploreMate/Explore Mate.md",
     "Projects/Mine/Oscar/Oscar.md",
-    "Daily/2024-05-14.md",
     "Cache/Сочинение Webium 13.05.2024.pdf",
     "Cache/Сочинение Webium 17.05.2024.pdf",
     "Cache/Сочинение Webium 18.05.2024.pdf",
     "Education/Ежедневник/2024/Июнь.md",
-    "Daily/2024-05-16.md",
     "Projects/Проекты.md",
     "Projects/Oscar/Без названия",
     "Projects/Mine/Oscar",
     "Cache/Pasted image 20240518001727.png",
     "Cache/Сочинение Webium 17.05.2024.docx",
-    "Daily/2024-05-13.md",
-    "Daily/2024-05-15.md",
     "Sport/2024/Май.md",
     "Без названия.md",
     "Webium.md",
