@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
+                "file": "Daily/2024-05-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
+                "file": "Daily/2024-05-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
+                "file": "Daily/2024-05-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md"
+                "file": "Daily/2024-05-19.md"
               }
             }
           },
@@ -156,9 +156,10 @@
   },
   "active": "7770fd1653b0ba8d",
   "lastOpenFiles": [
+    "Education/Ежедневник/2024/Май.md",
+    "Daily/2024-05-19.md",
     "Projects/Engine/ExploreMate/Explore Mate.md",
     "Projects/Mine/Oscar/Oscar.md",
-    "Education/Ежедневник/2024/Май.md",
     "Daily/2024-05-14.md",
     "Cache/Сочинение Webium 13.05.2024.pdf",
     "Cache/Сочинение Webium 17.05.2024.pdf",
