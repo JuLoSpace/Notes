@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a68750ce7e2ee54",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Education/Ежедневник/2024/Май.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,12 +159,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "726f9323bd048b5d",
+  "active": "4a68750ce7e2ee54",
   "lastOpenFiles": [
-    "Daily/2024-05-20.md",
-    "Daily/2024-05-19.md",
     "Education/Ежедневник/2024/Май.md",
     "Daily/2024-05-17.md",
+    "Daily/2024-05-20.md",
+    "Daily/2024-05-19.md",
     "Daily/2024-05-13.md",
     "Daily/2024-05-14.md",
     "Daily/2024-05-15.md",
