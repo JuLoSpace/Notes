@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
+                "file": "Templates/Finance Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Education/Ежедневник/2024/Май.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,12 +159,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "726f9323bd048b5d",
+  "active": "4a68750ce7e2ee54",
   "lastOpenFiles": [
-    "Cache/Сочинение Webium 17.05.2024 №2.pdf",
-    "Education/Ежедневник/2024/Май.md",
-    "Daily/2024-05-17.md",
+    "Templates/Finance Template.md",
+    "Finance/2024/Май.md",
     "Daily/2024-05-20.md",
+    "Templates/Daily Template.md",
+    "Finance/2024/Апрель.md",
+    "Education/Ежедневник/2024/Май.md",
+    "Cache/Сочинение Webium 17.05.2024 №2.pdf",
+    "Daily/2024-05-17.md",
     "Daily/2024-05-19.md",
     "Daily/2024-05-13.md",
     "Daily/2024-05-14.md",
@@ -192,15 +193,11 @@
     "Projects/Mine/Poe/Poe.md",
     "Без названия.canvas",
     "Templates/Planner Template.md",
-    "Templates/Finance Template.md",
     "Templates/Default Template.md",
-    "Templates/Daily Template.md",
     "Flutter.md",
     "Education/Выполненные цели/Сортировка/Цели на год.md",
-    "Education/Выполненные цели/Сортировка/Список целей.md",
     "Projects/Mine",
     "Projects/Engine",
-    "Projects/Mine/Poe",
-    "Cache/Сочинение Webium 13.05.2024.docx"
+    "Projects/Mine/Poe"
   ]
 }
