@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Education/Ежедневник/2024/Май.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Education/Ежедневник/2024/Май.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Education/Ежедневник/2024/Май.md"
+              }
             }
           },
           {
@@ -159,8 +162,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4a68750ce7e2ee54",
+  "active": "726f9323bd048b5d",
   "lastOpenFiles": [
+    "Cache/Сочинение Webium 17.05.2024 №2.pdf",
     "Education/Ежедневник/2024/Май.md",
     "Daily/2024-05-17.md",
     "Daily/2024-05-20.md",
@@ -194,7 +198,6 @@
     "Flutter.md",
     "Education/Выполненные цели/Сортировка/Цели на год.md",
     "Education/Выполненные цели/Сортировка/Список целей.md",
-    "Templates/Course Template.md",
     "Projects/Mine",
     "Projects/Engine",
     "Projects/Mine/Poe",
