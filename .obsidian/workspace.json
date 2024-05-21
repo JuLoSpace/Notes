@@ -30,17 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "328e389c8751b3c3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Education/Ежедневник/2024/Май.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Education/Ежедневник/2024/Май.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Education/Ежедневник/2024/Май.md"
+              }
             }
           },
           {
@@ -171,7 +167,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "328e389c8751b3c3",
+  "active": "4a68750ce7e2ee54",
   "lastOpenFiles": [
     "Education/Ежедневник/2024/Май.md",
     "Cache/Сочинение Webium 19.05.2024.pdf",
