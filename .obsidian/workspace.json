@@ -13,34 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Finance Template.md",
+                "file": "Education/Ежедневник/2024/Май.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "4a68750ce7e2ee54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-05-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "844ae051394e2b1b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Finance Template.md",
+                "file": "Education/Ежедневник/2024/Май.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Finance Template.md",
+                "file": "Education/Ежедневник/2024/Май.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Finance Template.md"
+                "file": "Education/Ежедневник/2024/Май.md"
               }
             }
           },
@@ -175,14 +154,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "844ae051394e2b1b",
+  "active": "726f9323bd048b5d",
   "lastOpenFiles": [
-    "Daily/2024-05-21.md",
     "Education/Ежедневник/2024/Май.md",
+    "Templates/Finance Template.md",
+    "Daily/2024-05-22.md",
+    "Daily/2024-05-21.md",
     "Cache/Сочинение Webium 19.05.2024.pdf",
     "Finance/2024/Май.md",
     "Daily/2024-05-20.md",
-    "Templates/Finance Template.md",
     "Templates/Daily Template.md",
     "Finance/2024/Апрель.md",
     "Cache/Сочинение Webium 17.05.2024 №2.pdf",
