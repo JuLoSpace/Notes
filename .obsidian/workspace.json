@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d41e9a3289b91985",
+        "id": "b8978c5e273a9b95",
         "type": "tabs",
         "children": [
           {
-            "id": "4d001c06fb314bba",
+            "id": "423c5305c43b654c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Ежедневник/2024/Июнь.md",
+                "file": "Education/Книги/2024/Художественная литература/Судьба человека.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Ежедневник/2024/Июнь.md",
+                "file": "Education/Книги/2024/Художественная литература/Судьба человека.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Ежедневник/2024/Июнь.md",
+                "file": "Education/Книги/2024/Художественная литература/Судьба человека.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Ежедневник/2024/Июнь.md"
+                "file": "Education/Книги/2024/Художественная литература/Судьба человека.md"
               }
             }
           },
@@ -154,9 +154,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4d001c06fb314bba",
+  "active": "11eab32ae7923cc7",
   "lastOpenFiles": [
+    "Education/Книги/2024/Без названия",
+    "Education/Книги/2024/Художественная литература",
     "Education/Ежедневник/2024/Май.md",
+    "Education/Книги/2024/Художественная литература/Судьба человека.md",
+    "Daily/2024-05-23.md",
     "Education/Ежедневник/2024/Июнь.md",
     "Cache/Сочинение Webium 13.05.2024.pdf",
     "Cache/Pasted image 20240518001727.png",
@@ -189,9 +193,6 @@
     "Без названия.md",
     "Webium.md",
     "НИЯУ МИФИ.md",
-    "Projects/Mine/Poe/Poe.md",
-    "Без названия.canvas",
-    "Templates/Planner Template.md",
-    "Projects/Mine"
+    "Без названия.canvas"
   ]
 }
