@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63ac687a4e540e79",
+        "id": "8eed2086be9b7a83",
         "type": "tabs",
         "children": [
           {
-            "id": "42c102f51a021c16",
+            "id": "31470e3d5ae76e63",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,12 +154,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "42c102f51a021c16",
+  "active": "31470e3d5ae76e63",
   "lastOpenFiles": [
     "Daily/2024-05-24.md",
+    "Education/Ежедневник/2024/Май.md",
     "Daily/2024-05-22.md",
     "Daily/2024-05-23.md",
-    "Education/Ежедневник/2024/Май.md",
     "Education/Книги/2024/Художественная литература/Судьба человека.md",
     "Cache/Сочинение Webium 2024-05-23.pdf",
     "Education/Ежедневник/2024/Июнь.md",
