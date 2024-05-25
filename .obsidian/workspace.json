@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31470e3d5ae76e63",
+            "id": "9ed5bb4399be59bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Education/Ежедневник/2024/Май.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,11 +146,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "31470e3d5ae76e63",
+  "active": "9ed5bb4399be59bc",
   "lastOpenFiles": [
-    "Cache/Сочинение Webium 2024-05-24.pdf",
+    "Daily/2024-05-15.md",
+    "Daily/2024-05-17.md",
+    "Daily/2024-05-18.md",
+    "Daily/2024-05-19.md",
+    "Daily/2024-05-20.md",
     "Daily/2024-05-24.md",
     "Education/Ежедневник/2024/Май.md",
+    "Cache/Сочинение Webium 2024-05-24.pdf",
     "Daily/2024-05-22.md",
     "Daily/2024-05-23.md",
     "Education/Книги/2024/Художественная литература/Судьба человека.md",
@@ -174,22 +171,16 @@
     "Templates/Finance Template.md",
     "Daily/2024-05-21.md",
     "Cache/Сочинение Webium 19.05.2024.pdf",
-    "Daily/2024-05-20.md",
     "Templates/Daily Template.md",
     "Cache/Сочинение Webium 17.05.2024 №2.pdf",
-    "Daily/2024-05-17.md",
-    "Daily/2024-05-19.md",
     "Daily/2024-05-13.md",
     "Daily/2024-05-14.md",
-    "Daily/2024-05-15.md",
     "Daily/2024-05-16.md",
-    "Daily/2024-05-18.md",
     "Projects/Engine/ExploreMate/Explore Mate.md",
     "Projects/Mine/Oscar/Oscar.md",
     "Cache/Сочинение Webium 17.05.2024.pdf",
     "Cache/Сочинение Webium 18.05.2024.pdf",
     "Projects/Проекты.md",
-    "Projects/Oscar/Без названия",
     "Sport/2024/Май.md",
     "Без названия.md",
     "Webium.md",
