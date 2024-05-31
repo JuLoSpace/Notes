@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-05-31.md",
+                "file": "Education/Ежедневник/2024/Май.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ffa0854bdf424a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Engine/ExploreMate/Explore Mate.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-05-31.md",
+                "file": "Projects/Engine/ExploreMate/Explore Mate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-05-31.md",
+                "file": "Projects/Engine/ExploreMate/Explore Mate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-05-31.md"
+                "file": "Projects/Engine/ExploreMate/Explore Mate.md"
               }
             }
           },
@@ -167,20 +179,20 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "687bed99f48357d2",
+  "active": "7ffa0854bdf424a1",
   "lastOpenFiles": [
-    "Daily/2024-05-30.md",
-    "Daily/2024-05-31.md",
     "Education/Ежедневник/2024/Май.md",
+    "Daily/2024-05-19.md",
+    "Daily/2024-05-26.md",
+    "Daily/2024-05-31.md",
+    "Daily/2024-05-30.md",
     "Education/Ежедневник/2024/Июнь.md",
     "Cache/Произведения для ЕГЭ по русскому языку.pdf",
     "Daily/2024-05-27.md",
-    "Daily/2024-05-19.md",
     "Daily/2024-05-20.md",
     "Daily/2024-05-23.md",
     "Daily/2024-05-24.md",
     "Daily/2024-05-25.md",
-    "Daily/2024-05-26.md",
     "Cache/Сочинение Webium 2024-05-26.pdf",
     "Cache/Сочинение Webium 2024-05-26 #2 3.pdf",
     "Cache/Сочинение Webium 2024-05-26 #2 2.pdf",
