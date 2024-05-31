@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
+                "file": "Daily/2024-05-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
+                "file": "Daily/2024-05-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md",
+                "file": "Daily/2024-05-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Ежедневник/2024/Май.md"
+                "file": "Daily/2024-05-31.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   "active": "687bed99f48357d2",
   "lastOpenFiles": [
     "Daily/2024-05-30.md",
+    "Daily/2024-05-31.md",
     "Education/Ежедневник/2024/Май.md",
     "Education/Ежедневник/2024/Июнь.md",
     "Cache/Произведения для ЕГЭ по русскому языку.pdf",
@@ -205,7 +206,6 @@
     "Daily/2024-05-13.md",
     "Daily/2024-05-14.md",
     "Daily/2024-05-16.md",
-    "Projects/Mine/Oscar/Oscar.md",
     "Без названия.canvas"
   ]
 }
