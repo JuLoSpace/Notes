@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1327b1be5496bee0",
+        "id": "373276332e1d685d",
         "type": "tabs",
         "children": [
           {
-            "id": "7ffa0854bdf424a1",
+            "id": "e36491da7424b8e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/Ежедневник/2024/Июнь.md",
+                "file": "Education/Ежедневник/2024/Май.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Education/Ежедневник/2024/Июнь.md",
+                "file": "Education/Ежедневник/2024/Май.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Education/Ежедневник/2024/Июнь.md",
+                "file": "Education/Ежедневник/2024/Май.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Education/Ежедневник/2024/Июнь.md"
+                "file": "Education/Ежедневник/2024/Май.md"
               }
             }
           },
@@ -154,10 +154,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7ffa0854bdf424a1",
+  "active": "e36491da7424b8e3",
   "lastOpenFiles": [
-    "Education/Ежедневник/2024/Май.md",
     "Education/Ежедневник/2024/Июнь.md",
+    "Education/Ежедневник/2024/Май.md",
     "Daily/2024-06-01.md",
     "Projects/Engine/ExploreMate/Explore Mate.md",
     "Daily/2024-05-19.md",
