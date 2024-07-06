@@ -2,7 +2,7 @@
 tags:
   - Project
 Приоритет: High
-Статус: Idea
+Статус: Work
 Авторы: Soloviev Yaroslav
 Компания: Engine
 ---
@@ -23,7 +23,7 @@ tags:
 
 ### Участвующие: 
 - #### Soloviev Yaroslav (creator, programming) in project
-- #### Alexander Krasilnikov (design) ?
+- #### Alexander Krasilnikov (design)
 - #### Nikolaev Artem (montage) ?
 
 

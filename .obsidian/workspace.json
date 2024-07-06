@@ -4,30 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "b25525e55f4bf7a7",
+        "id": "c9c7ed7e16613762",
         "type": "tabs",
         "children": [
           {
-            "id": "58a830f550da520f",
+            "id": "70a8c4e0dcf2c135",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-07-07.md",
+                "file": "Education/Ежедневник/2024/Июль.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6db6f89e4cf81b40",
+            "id": "d99e7db4356fe125",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-07-07.md",
+                "file": "Education/Ежедневник/2024/Июль.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-07-07.md",
+                "file": "Education/Ежедневник/2024/Июль.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-07-07.md"
+                "file": "Education/Ежедневник/2024/Июль.md"
               }
             }
           },
@@ -162,21 +165,22 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "58a830f550da520f",
+  "active": "d99e7db4356fe125",
   "lastOpenFiles": [
+    "Projects/Engine/ExploreMate/Explore Mate.md",
+    "Education/Ежедневник/2024/Июль.md",
     "Education/Ежедневник/2024/Июнь.md",
+    "Education/Книги/2024/Научная литература/Тайный язык информатики.md",
+    "Education/Ежедневник/2024/Май.md",
     "Daily/2024-07-07.md",
     "Daily/2024-06-14.md",
-    "Projects/Engine/ExploreMate/Explore Mate.md",
     "Projects/Engine/Без названия/Без названия.md",
     "Projects/Engine/Без названия",
     "Education/Книги/2024/Научная литература/Ассемблер - это просто.md",
-    "Education/Книги/2024/Научная литература/Тайный язык информатики.md",
     "Cache/Чарльз Петцольд - Код_ тайный язык информатики-Манн, Иванов и Фербер (2019).pdf",
     "Daily/2024-06-12.md",
     "Daily/2024-06-11.md",
     "Sport/2024/Июнь.md",
-    "Education/Ежедневник/2024/Май.md",
     "Templates/Sport Template.md",
     "Templates/Project Template.md",
     "Sport/2024/Май.md",
@@ -197,7 +201,6 @@
     "Daily/2024-05-19.md",
     "Daily/2024-05-26.md",
     "Cache/Произведения для ЕГЭ по русскому языку.pdf",
-    "Daily/2024-05-20.md",
     "Cache/Сочинение Webium 2024-05-26.pdf",
     "Cache/Сочинение Webium 2024-05-26 #2 3.pdf",
     "Cache/Сочинение Webium 2024-05-26 #2 2.pdf",
