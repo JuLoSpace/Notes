@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8f1518b264b3a83b",
+        "id": "ca48bc6adbbc6a33",
         "type": "tabs",
         "children": [
           {
-            "id": "864f23c8a219e785",
+            "id": "06fe13b922a9dca0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Freelancing Work.md",
+                "file": "Education/Ежедневник/2024/Июль.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Freelancing Work.md",
+                "file": "Education/Ежедневник/2024/Июль.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Freelancing Work.md",
+                "file": "Education/Ежедневник/2024/Июль.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Freelancing Work.md"
+                "file": "Education/Ежедневник/2024/Июль.md"
               }
             }
           },
@@ -154,33 +154,34 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "864f23c8a219e785",
+  "active": "06fe13b922a9dca0",
   "lastOpenFiles": [
-    "Templates/Finance Template.md",
-    "Templates/Freelancing Work.md",
-    "Templates/Reference Template.md",
+    "Education/Книги/2024/Научная литература/Тайный язык информатики.md",
+    "Education/Книги/2024/Научная литература/Основы Dart.md",
+    "Cache/Чернышев С. - Основы Dart (2024).pdf",
+    "Education/Книги/2024/Научная литература/Язык C.md",
+    "Education/Ежедневник/2024/Июль.md",
     "Work/Freelancing/Brain Development Center/Neurotrainer/Neurotrainer.md",
+    "Templates/Freelancing Work.md",
+    "Templates/Finance Template.md",
+    "Templates/Reference Template.md",
     "Work/Freelancing/Brain Development Center/Без названия.canvas",
     "Work/Freelancing/Brain Development Center/Neurotrainer",
     "Work/Freelancing/Brain Development Center/Без названия.md",
-    "Education/Ежедневник/2024/Июль.md",
     "Work/Freelancing/Brain Development Center",
     "Work/Freelancing",
     "Work",
     "Daily/2024-07-15.md",
     "Education/Программирование/C/Без названия.md",
-    "Education/Книги/2024/Научная литература/Язык C.md",
     "Cache/Язык C.pdf",
     "Education/Книги/2024/Научная литература/Язык C.pdf",
     "Education/Программирование/Java",
     "Education/Программирование/JavaScript",
     "Education/Программирование/Dart",
-    "Education/Программирование/Python",
     "Education/Программирование/Assembler.md",
     "Education/Без названия.md",
     "Projects/Engine/ExploreMate/Explore Mate.md",
     "Education/Ежедневник/2024/Июнь.md",
-    "Education/Книги/2024/Научная литература/Тайный язык информатики.md",
     "Education/Ежедневник/2024/Май.md",
     "Daily/2024-07-07.md",
     "Daily/2024-06-14.md",
@@ -191,8 +192,6 @@
     "Sport/2024/Июнь.md",
     "Templates/Sport Template.md",
     "Templates/Project Template.md",
-    "Sport/2024/Май.md",
-    "Projects/Проекты.md",
     "Без названия.canvas",
     "Cache/Pasted image 20240518001727.png"
   ]
