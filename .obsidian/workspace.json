@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ca48bc6adbbc6a33",
+        "id": "0bc51d572c58dfb5",
         "type": "tabs",
         "children": [
           {
-            "id": "06fe13b922a9dca0",
+            "id": "23cdd746f0da57db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -137,12 +137,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,13 +154,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "06fe13b922a9dca0",
+  "active": "23cdd746f0da57db",
   "lastOpenFiles": [
+    "Daily/2024-07-17.md",
+    "Education/Ежедневник/2024/Июль.md",
+    "2024-07-17.md",
+    "Daily/2024-07-16.md",
     "Education/Книги/2024/Научная литература/Тайный язык информатики.md",
     "Education/Книги/2024/Научная литература/Основы Dart.md",
     "Cache/Чернышев С. - Основы Dart (2024).pdf",
     "Education/Книги/2024/Научная литература/Язык C.md",
-    "Education/Ежедневник/2024/Июль.md",
     "Work/Freelancing/Brain Development Center/Neurotrainer/Neurotrainer.md",
     "Templates/Freelancing Work.md",
     "Templates/Finance Template.md",
@@ -190,8 +193,6 @@
     "Daily/2024-06-12.md",
     "Daily/2024-06-11.md",
     "Sport/2024/Июнь.md",
-    "Templates/Sport Template.md",
-    "Templates/Project Template.md",
     "Без названия.canvas",
     "Cache/Pasted image 20240518001727.png"
   ]
