@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d99e7db4356fe125",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,8 +154,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d99e7db4356fe125",
+  "active": "70a8c4e0dcf2c135",
   "lastOpenFiles": [
+    "Education/Программирование/Java",
+    "Education/Программирование/JavaScript",
+    "Education/Программирование/Dart",
+    "Education/Программирование/Python",
+    "Education/Программирование/C",
+    "Education/Программирование/C++",
+    "Education/Программирование/Assembler",
+    "Education/Программирование/Assembler.md",
+    "Education/Программирование",
+    "Education/Без названия.md",
     "Projects/Engine/ExploreMate/Explore Mate.md",
     "Education/Ежедневник/2024/Июль.md",
     "Education/Ежедневник/2024/Июнь.md",
@@ -185,25 +184,15 @@
     "Templates/Project Template.md",
     "Sport/2024/Май.md",
     "Без названия",
-    "Cache/Без названия",
     "Projects/Проекты.md",
     "Education/Книги/2024/Художественная литература/Судьба человека.md",
     "Daily/2024-06-10.md",
-    "Cache/Ассемблер - это просто.pdf",
-    "Education/Книги/2024/Научная литература",
     "Daily/2024-05-27.md",
     "Daily/2024-05-30.md",
     "Daily/2024-05-31.md",
     "Daily/2024-06-01.md",
     "Daily/2024-05-13.md",
-    "Daily/2024-05-14.md",
     "Без названия.canvas",
-    "Daily/2024-05-19.md",
-    "Daily/2024-05-26.md",
-    "Cache/Произведения для ЕГЭ по русскому языку.pdf",
-    "Cache/Сочинение Webium 2024-05-26.pdf",
-    "Cache/Сочинение Webium 2024-05-26 #2 3.pdf",
-    "Cache/Сочинение Webium 2024-05-26 #2 2.pdf",
     "Cache/Pasted image 20240518001727.png"
   ]
 }
