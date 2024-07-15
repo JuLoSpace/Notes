@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0bc51d572c58dfb5",
+        "id": "226d11ea086eb505",
         "type": "tabs",
         "children": [
           {
-            "id": "23cdd746f0da57db",
+            "id": "2fb1854339e3c931",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,17 +154,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "23cdd746f0da57db",
+  "active": "2fb1854339e3c931",
   "lastOpenFiles": [
-    "Daily/2024-07-17.md",
+    "Daily/2024-07-18.md",
     "Education/Ежедневник/2024/Июль.md",
+    "Work/Freelancing/Brain Development Center/Neurotrainer/Neurotrainer.md",
+    "Daily/2024-07-17.md",
     "2024-07-17.md",
     "Daily/2024-07-16.md",
     "Education/Книги/2024/Научная литература/Тайный язык информатики.md",
     "Education/Книги/2024/Научная литература/Основы Dart.md",
     "Cache/Чернышев С. - Основы Dart (2024).pdf",
     "Education/Книги/2024/Научная литература/Язык C.md",
-    "Work/Freelancing/Brain Development Center/Neurotrainer/Neurotrainer.md",
     "Templates/Freelancing Work.md",
     "Templates/Finance Template.md",
     "Templates/Reference Template.md",
@@ -192,7 +193,6 @@
     "Education/Книги/2024/Научная литература/Ассемблер - это просто.md",
     "Daily/2024-06-12.md",
     "Daily/2024-06-11.md",
-    "Sport/2024/Июнь.md",
     "Без названия.canvas",
     "Cache/Pasted image 20240518001727.png"
   ]
